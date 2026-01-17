@@ -1,6 +1,4 @@
 # 2D-Platformer-game-
-2D Platformer Game (Python / Pygame)
-
 This project is an in-progress 2D platformer game built using Python and Pygame.
 It is being developed as a personal project to demonstrate core game development concepts, clean code structure, and object-oriented design practice.
 
